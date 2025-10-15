@@ -1,0 +1,10 @@
+{
+  "ios": {
+    "minimumVersion": "1.0.0",
+    "storeUrl": "https://apps.apple.com/..."
+  },
+  "android": {
+    "minimumVersion": "1.0.0",
+    "storeUrl": "https://play.google.com/..."
+  }
+}
